@@ -1,13 +1,11 @@
-.header{
-  
-}
+
 
 .bigtitle{
   display:flex;
   flex-direction:column;
   align-items: center;
   justify-content: center;
-  height: 200vh;
+  height: 140vh;
   background-color: #BEBEBE	;
 }
 
